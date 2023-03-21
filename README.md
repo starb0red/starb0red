@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @starb0red
 - 👀 I’m interested in learning python. Specifically Flask.
-- 🌱 I’m currently learning how to fuck the stock market.
+- 🌱 I’m currently learning how to do cool things with API's.
 - 💞️ I’m looking to collaborate on literally anything. Give me your money.
 
 <!---
